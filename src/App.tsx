@@ -8,6 +8,7 @@ function App() {
 
   const x="sdfdsf";
  const x2="sdfdsfupdate";
+console.log(x);
   return (
     <>
       <div>
