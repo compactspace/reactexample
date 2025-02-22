@@ -6,8 +6,10 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  const x="sdfdsf";
+    const x = "Hello from Remote!";
+console.log(x);
  const x2="sdfdsfupdate";
+
   return (
     <>
       <div>
