@@ -6,10 +6,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  const x="sdfdsf";
- const x2="sdfdsfupdate";
-console.log(x);
-   const x3="x3";
+ 
   return (
     <>
       <div>
