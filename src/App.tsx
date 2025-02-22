@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   const x="sdfdsf";
- const x2="sdfdsf";
+ const x2="sdfdsfupdate";
   return (
     <>
       <div>
