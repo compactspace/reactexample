@@ -8,8 +8,8 @@
 .logo {
   display: flex;
 
-  //로컬의
   justify-self: unset;
+
 
   width: 150px;
   height: 6em;
