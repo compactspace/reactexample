@@ -6,6 +6,13 @@
 }
 
 .logo {
+
+  ///원격
+ max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  //종료
   display: flex;
 
   justify-self: unset;
